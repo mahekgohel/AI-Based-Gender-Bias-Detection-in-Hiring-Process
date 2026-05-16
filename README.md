@@ -86,4 +86,4 @@ Gaytri Patel
 Sanjana 
 
 ## Contact
-Mahek gohel - www.linkedin.com/in/mahek-gohel-b0120b39a - Feel free to reach out for questions!
+Mahek gohel - www.linkedin.com/in/mahek-gohel-b0120b39a - Feel free to reach out for questions! [Team leader]
