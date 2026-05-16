@@ -80,10 +80,10 @@ This project is open-source under the MIT License.
 
 #team project
 Mahek Gohel[Team Leader]
-Sahista Pathan
-Dipti Makavana
-Gaytri Patel
-Sanjana 
+Sahista Pathan,
+Dipti Makavana,
+Gaytri Patel,
+Sanjana .
 
 ## Contact
 Mahek gohel - www.linkedin.com/in/mahek-gohel-b0120b39a - Feel free to reach out for questions! [Team leader]
