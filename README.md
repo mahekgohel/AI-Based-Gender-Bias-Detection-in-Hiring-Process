@@ -68,7 +68,7 @@ Integrate more diverse datasets, add explainability (e.g., SHAP), deploy as a we
 This project is open-source under the MIT License.
 
 #team project
-Mahek Gohel[Team Leader]
+Mahek Gohel[Team Leader],
 Sahista Pathan,
 Dipti Makavana,
 Gaytri Patel,
