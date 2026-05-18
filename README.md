@@ -1,14 +1,3 @@
-# Ai-hiring-bias-detection
-Where: This is a file in your repo (create it as README.md in your project folder before uploading, or edit it on GitHub after upload).
-
-What to Write: A structured overview of your project. Use Markdown (simple formatting like # for headings, bold, bullet points). Include the report sections from the original prompt.
-
-Why: It explains the project, how to run it, and your findings—makes your repo look complete.
-
-Template (Copy this into a new file called README.md in your project folder, then upload):
-
-
-Copy code
 # AI-Based Gender Bias Detection in Hiring Process
 
 ## Overview
